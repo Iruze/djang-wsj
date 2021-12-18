@@ -1,1 +1,1 @@
-# djang-wsj
+# django-wsj
